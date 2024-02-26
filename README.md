@@ -1,1 +1,1 @@
-This repository holds all the materials completed for the Challenge 1 Assignment for the Data Analytics Bootcamp. All of the data used was provided by edX, the code is my own and adapted from the Microsoft Excel API and the analysis is my own.
+This repository holds all the materials completed for the Challenge 1 Assignment for the Data Analytics Bootcamp. All of the data used was provided by edX, the code is my own and adapted from Microsoft Excel documentation and the analysis is my own.
